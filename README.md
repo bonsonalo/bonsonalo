@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-Software Engineer building real-world projects and sharing the journey: lessons, reflections and personal opinions on YouTube & Instagram.
+Software Engineer building real-world projects and sharing the journey: lessons, reflections and personal opinions on Instagram, YouTube & Linkedin. 
 </p>
 
 <div align="left">
