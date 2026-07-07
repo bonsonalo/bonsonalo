@@ -41,13 +41,19 @@ Software Engineer building real-world projects and sharing the journey: lessons,
 <h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
 
 <br/>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,fastapi,postgres,mysql&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,netlify&theme=dark" />
+</p>
+<br/>
+<p align="center"><sub><strong>Deployed with</strong></sub></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </p>
 
 <br/><br/>
