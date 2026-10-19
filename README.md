@@ -26,8 +26,8 @@ Software Engineer building real-world projects and sharing the journey: lessons,
 <br/><br/>
 
 <p align="center">
-<a href="https://www.youtube.com/@bonsondev"><img src="https://img.shields.io/badge/YouTube-@bonsondev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/bonsonalo/"><img src="https://img.shields.io/badge/Instagram-bonsonalo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@bonsondev"><img src="https://img.shields.io/badge/YouTube-@bonsondev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bonsonalo"><img src="https://img.shields.io/badge/LinkedIn-bonsonalo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bonsonalo@gmail.com"><img src="https://img.shields.io/badge/Gmail-bonsonalo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
